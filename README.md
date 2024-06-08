@@ -7,7 +7,7 @@ Frontend Developer
 I love Coding
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [https://dreamy-malabi-288e82.netlify.app/](http://https://dreamy-malabi-288e82.netlify.app/)
+* 🖥️  See my portfolio at {}
 * ✉️  You can contact me at [kalejaiyecaleb@gmail.com](mailto:kalejaiyecaleb@gmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting projects
