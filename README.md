@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Typescript, React Native**
 
-💬 Ask me about **Javascript, React, TailwindCSS... or anything [here]()**
+💬 Ask me about **Javascript, Typescript, React, TailwindCSS... or anything [here]()**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,tailwind,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,tailwind,vscode,github,figma,php,nodejs,firebase,git" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs," /><br>
 </div>
 
