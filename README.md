@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React Native**
 
-💬 Ask me about **Javascript, Typescript, React, Golang, NodeJS, TailwindCSS... or anything [here]()**
+💬 Ask me about **Javascript, Typescript, React, Golang, NodeJS... or anything [here]()**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
