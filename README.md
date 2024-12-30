@@ -46,7 +46,7 @@
 
 <div align="center">
   <h2>Buy me a Coffee</h2>
-  <a href="https://buymeacoffee.com/kalejaiyecs" target="_blank" style="text-decoration: none;">
+  <a href="https://buymeacoffee.com/heyrapto" target="_blank" style="text-decoration: none;">
     <img 
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
       alt="Buy Me a Coffee" 
