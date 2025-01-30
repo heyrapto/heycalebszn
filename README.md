@@ -12,7 +12,7 @@
  
  🔭 I’m currently **building my ideas and trying to be an 100x dev**
  
- 🌱 I’m currently learning **React Native**
+ 🌱 A master at what he does **he is HIM**
 
 💬 Ask me about **Javascript, Typescript, React, Solidity, NodeJS... or anything [here](kalejaiyecaleb@gmail.com)**
 
