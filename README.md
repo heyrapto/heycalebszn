@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Caleb+!;" />
 </h1>
 
-<h3 align="center">Creative software developer</h3>
+<h3 align="left">Creative software developer</h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently **building my ideas and trying to be an 100x dev**
  
@@ -20,7 +20,7 @@
 
  </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:raptomiofw@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -34,9 +34,9 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages & Tools ⚒️</h2>
 <br/>
-<div align="center">
+<div align="left">
     
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,express,solidity" width={100}/><br>
 </div>
@@ -44,7 +44,7 @@
 <br/>
 <hr/>
 
-<div align="center">
+<div align="left">
   <h2>Buy me a Coffee</h2>
   <a href="https://buymeacoffee.com/heyrapto" target="_blank" style="text-decoration: none;">
     <img 
