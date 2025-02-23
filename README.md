@@ -9,7 +9,7 @@
 
 <div align="left">
  
- 🔭 I’m currently **building and working hard to be an 100x dev**
+ 🔭 I’m currently **building**
  
  🌱 A master at what he does **i am HIM**
 
