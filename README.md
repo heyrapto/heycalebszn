@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="left">⚒️ Languages & Tools ⚒️</h2>
+<h2 align="left">Languages & Tools ⚒️</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,solidity" /><br>
