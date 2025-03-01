@@ -75,7 +75,7 @@
 
 <h2 align="left">Coding Activity</h2>
 
-<figure><embed src="https://wakatime.com/share/@Caleb_codes/33549783-ed82-4d95-9856-f5f3164a6eac.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@Caleb_codes/33549783-ed82-4d95-9856-f5f3164a6eac.svg"></embed>
 
 <br/>
 <hr/>
