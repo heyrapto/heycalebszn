@@ -4,7 +4,6 @@
 <h3 align="left">Full-Stack Developer | Blockchain Engineer | Backend Engineer | AI Specialist </h3>
 
 <br/>
-
 <div align="left">
  
  🔭 Currently architecting decentralized applications that bridge Web3 with conventional platforms
