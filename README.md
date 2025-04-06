@@ -10,7 +10,7 @@
  
  🌱 Specializing in secure, performant, and scalable digital solutions that solve complex problems
  
- 💬 Ask me about **React, Next.js, TypeScript, MongoDB, Node.js, Express.js, Solidity, Ethers.js, Web3.js, Foundry, Hardhat, or anything [here](mailto:kalejaiyecaleb@gmail.com)**
+ 💬 Ask me about **React, Next.js, TypeScript, MongoDB, Node.js, Express.js, Solidity, Ethers.js, Web3.js, Foundry, Hardhat, Wagmi or anything [here](mailto:kalejaiyecaleb@gmail.com)**
 
  ⚡ Fun fact: I build open-source problem-solving projects and develop ethical web scraping solutions in my free time
  
