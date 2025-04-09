@@ -5,7 +5,7 @@
 
 <br/>
 <div align="left">
- 
+
  🔭 Currently architecting decentralized applications that bridge Web3 with conventional platforms
  
  🌱 Specializing in secure, performant, and scalable digital solutions that solve complex problems
