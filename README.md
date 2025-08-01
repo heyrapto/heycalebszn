@@ -72,17 +72,27 @@
 
 <h2 align="left">Coding Activity</h2>
 
-<embed src="https://wakatime.com/share/@Caleb_codes/33549783-ed82-4d95-9856-f5f3164a6eac.svg"></embed>
 
-<br/>
-<hr/>
+### GitHub Trophy
 
-<div align="left">
-  <h2>Support My Work</h2>
-  <a href="https://buymeacoffee.com/heyrapto" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-      alt="Buy Me a Coffee" 
-      style="height: 60px; width: 217px;" />
-  </a>
-</div>
+![Trophies](https://github-profile-trophy.vercel.app/?username=heyrapto&theme=nord_dark)
+
+![](https://komarev.com/ghpvc/?username=Elishaokon13&color=green) <br />
+
+## 📊 More Stats
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyrapto&theme=default)
+
+### Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyrapto&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/heyrapto)
+
+### Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heyrapto)](https://git.io/streak-stats)
+
+---
+
+## 📜 Contributions
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyrapto&theme=dracula)](https://github.com/heyrapto)
